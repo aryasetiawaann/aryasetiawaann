@@ -1,13 +1,13 @@
-## Hi there! I'm Arya👋
+## Hi there! I'm Arya 👋
 
 ### About Me
-💡 Saya passionate dengan robot dan AI
-🎓 Saya sedang mengambil Computer Science Major di Universitas Multimedia Nusantara
-🤖 Saya sedang mempelajari lebih tentang AI
+💡 Passionate about Robotics and Artificial Intelligence  
+🎓 Currently pursuing a Bachelor's degree in Computer Science at Universitas Multimedia Nusantara  
+🤖 Exploring and learning more about Artificial Intelligence  
 
-### GitHub Statistic
+### GitHub Statistics
 <p align="left">
-  <a href="https://github.com/penuliscode">
+  <a href="https://github.com/aryasetiawaann">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryasetiawaann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryasetiawaann&layout=compact&theme=algolia"/>
   </a>
