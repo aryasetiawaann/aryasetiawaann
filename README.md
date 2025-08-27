@@ -3,7 +3,7 @@
 <img alt="Cat Coding" src="Assets/cat-laptop.gif" align="right" width="150" />
 
 ### 👨‍💻 About Me
-💡 Passionate about **Robotics** and **Artificial Intelligence**  
+💡 Highly interested in **Artificial Intelligence**, with a particular focus on its applications in **Robotics**  
 🎓 Pursuing a **Bachelor's degree in Computer Science** at Universitas Multimedia Nusantara  
 🤖 Continuously exploring and learning more about **AI**  
 
